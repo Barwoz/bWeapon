@@ -17,4 +17,5 @@ Youtube : "https://www.youtube.com/channel/UCfNvauIFWsKmyKvrb9eK5sw"
 Pour que le Script fonctionne il vous faut : 
 
 esx_Clip : "https://github.com/gregos1810/esx_clip"
+
 enden_accesories : "https://github.com/esx-community/eden_accesories"
